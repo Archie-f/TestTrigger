@@ -17,7 +17,7 @@ public class Trigger {
         String sourceFilePath = "";
 
         String sourceFolderPath = "C:/Users/akifm/Downloads/";
-        String targetFolderPath = "C:/Users/akifm/.jenkins/workspace/Test_Trigger_Build_Job_Demo/target/app/";
+        String targetFolderPath = "C:/Users/akifm/.jenkins/workspace/Test_Trigger_Build_Job_Demo/test/";
 
         //Check the source folder if it has the required file name
         File folder = new File(sourceFolderPath);
